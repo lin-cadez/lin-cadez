@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lin-cadez
 - 👀 I’m interested in programming and data science
-- 🌱 I’m currently learning python, C++ and website design
+- 🌱 I’m currently learning python, JavaScript and webdesign
 - 📫 How to reach me on Discord LinCadez#7037
 
 
