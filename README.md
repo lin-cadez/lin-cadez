@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Arduino%20C-008184?style=for-the-badge&logo=arduino&logoColor=white" />
     &nbsp;&nbsp;
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
- <img src="">
+
 </p>
 
 
