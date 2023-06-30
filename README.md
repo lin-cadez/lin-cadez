@@ -40,7 +40,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lin-cadez&count_private=true&theme=tokyonight&showicons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lin-cadez&theme=ayu-light&border_radius=10&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lin-cadez&theme=tokyonight&border_radius=10&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lin-cadez&langs_count=5&theme=tokyonight)
 
