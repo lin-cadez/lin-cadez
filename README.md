@@ -1,10 +1,8 @@
 <div style="text-align: center;">
 
 - 👋 Hi, I’m @lin-cadez
-- 👀 I’m a high school student learning computer science from Slovenia.
+- Currently I am working on KrokyPlus
 - 🌱 I’m currently interested in web development and AI.
-- ⏲️ I’m also interested in videography, learning geography and playing Minecraft.
-- 🚶 I love hiking to mountain peaks and running through forests.
 - 📫 How to reach me: on Discord LinCadez#7037
 
 
