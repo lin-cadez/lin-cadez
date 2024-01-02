@@ -1,8 +1,8 @@
 <div style="text-align: center;">
 
 - 👋 Hi, I’m @lin-cadez
-- Currently I am working on KrokyPlus
-- 🌱 I’m currently interested in web development and AI.
+- Currently I am working on software for Firefly model rocket.
+- 🌱 I’m currently interested in radio-communication and C++
 - 📫 How to reach me: on Discord LinCadez#7037
 
 
