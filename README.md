@@ -52,7 +52,7 @@
     </a>
      </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/lin-%C4%8Dade%C5%BE-7693142b0/">
-        <img src="https://img.shields.io/badge/Linkedin-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </p>
 
