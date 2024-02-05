@@ -31,8 +31,6 @@ Currently working on software for **Firefly model rocket.**
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Arduino%20C-008184?style=for-the-badge&logo=arduino&logoColor=white" />
-    &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     &nbsp;&nbsp;
 </p>
