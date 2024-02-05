@@ -41,7 +41,7 @@ Currently working on software for **Firefly model rocket.**
 
 ## Social media
 
-- [Discord](https://discordapp.com/users/989076547732402186) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-- [LinkedIn](https://www.linkedin.com/in/lin-%C4%8Dade%C5%BE-7693142b0/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-- [YouTube](https://www.youtube.com/@lincadez) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-- [GitHub](https://www.github.com/lin-cadez) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) => [Discord](https://discordapp.com/users/989076547732402186)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) => [LinkedIn](https://www.linkedin.com/in/lin-%C4%8Dade%C5%BE-7693142b0/)
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) => [YouTube](https://www.youtube.com/@lincadez) 
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) => [GitHub](https://www.github.com/lin-cadez)
