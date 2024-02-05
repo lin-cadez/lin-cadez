@@ -1,9 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="en">
-
-<body>
-
     <div style="text-align: center;" class="container">
 
         <h1>👋 Hi, I’m Lin Čadež</h1>
@@ -78,6 +72,3 @@
 
     </div>
 
-</body>
-
-</html>
