@@ -2,9 +2,9 @@
 
 🚀 I am a **computer science student** at [Vegova Ljubljana](https://www.vegova.si/).
 
-📡 Currently working on CANSAT.
-🌱 Interested in math and AI
-🚁Certified A1/A3 drone pilot and HAM radio operator (callsign: S59SI)
+### 📡 Currently working on CANSAT.
+### 🌱 Interested in math and AI
+### 🚁Certified A1/A3 drone pilot and HAM radio operator (callsign: S59SI)
 
 
 ## Programming languages and tools
