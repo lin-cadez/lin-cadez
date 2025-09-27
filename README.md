@@ -2,11 +2,9 @@
 
 🚀 I am a **computer science student** at [Vegova Ljubljana](https://www.vegova.si/).
 
-Currently working on software for **Firefly model rocket.**
-
-🌱 Interested in **radio-communication and C++**
-
-🚁📡Certified **A1/A3 drone pilot** and **HAM radio operator**
+📡 Currently working on CANSAT.
+🌱 Interested in math and AI
+🚁Certified A1/A3 drone pilot and HAM radio operator (callsign: S59SI)
 
 
 ## Programming languages and tools
