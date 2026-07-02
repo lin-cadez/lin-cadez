@@ -2,7 +2,7 @@
 
 🚀 I am a **computer science student** at [FRI](https://www.fri.uni-lj.si/sl).
 
-### 📡 Currently working on TripLion.
+### 📡 Currently working on [TripLion](https://trip-lion.com).
 ### 🌱 Interested in math and AI
 ### 🚁Certified A1/A3 drone pilot and HAM radio operator (callsign: S59SI)
 
