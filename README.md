@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Lin Čadež
 
-🚀 I am a **computer science student** at [Vegova Ljubljana](https://www.vegova.si/).
+🚀 I am a **computer science student** at [FRI](https://www.fri.uni-lj.si/sl).
 
-### 📡 Currently working on CANSAT.
+### 📡 Currently working on TripLion.
 ### 🌱 Interested in math and AI
 ### 🚁Certified A1/A3 drone pilot and HAM radio operator (callsign: S59SI)
 
